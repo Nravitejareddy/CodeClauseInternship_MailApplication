@@ -21,4 +21,17 @@ database.py
 mailer.py
 app.db
 ```
+## ⚙️ Technologies Used
 
+- **Python**
+- **Tkinter** (for UI)
+- **SQLite** (Database)
+- **SMTP** (Email sending)
+
+## 📦 Required Libraries
+
+Install the required Python libraries before running the project:
+
+```bash
+pip install secure-smtplib
+```
