@@ -51,3 +51,45 @@ python mail_app.py
 4. The Mail Application UI will launch
 5. Register or log in to start sending emails
 
+## 📸 Screenshots
+
+### 🔹 Login Screen
+<p align="center">
+  <img src="screenshots/login.png" alt="Login Screen">
+</p>
+
+### 🔹 Register Screen
+<p align="center">
+  <img src="screenshots/register.png" alt="Register Screen">
+</p>
+
+### 🔹 Dashboard
+<p align="center">
+  <img src="screenshots/dashboard.png" alt="Dashboard">
+</p>
+
+### 🔹 SMTP Settings
+<p align="center">
+  <img src="screenshots/smtp settings.png" alt="SMTP Settings">
+</p>
+
+### 🔹 Send Mail
+<p align="center">
+  <img src="screenshots/send mail.png" alt="Send Mail">
+</p>
+
+### 🔹 Sent Emails
+<p align="center">
+  <img src="screenshots/sent emails.png" alt="Sent Emails">
+</p>
+
+### 🔹 View SMTP Settings
+<p align="center">
+  <img src="screenshots/view smtp settings.png" alt="View SMTP Settings">
+</p>
+
+### 🔹 Logout
+<p align="center">
+  <img src="screenshots/logout.png" alt="Logout">
+</p>
+
