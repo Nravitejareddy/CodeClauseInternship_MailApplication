@@ -39,4 +39,15 @@ pip install secure-smtplib
 
 Standard libraries like `sqlite3`, `smtplib`, and `tkinter` come pre-installed with Python.
 
+## ▶️ How to Run
+
+1. Open **Command Prompt** / **Terminal**
+2. Navigate to the project directory
+3. Run the following command:
+
+```bash
+python mail_app.py
+```
+4. The Mail Application UI will launch
+5. Register or log in to start sending emails
 
