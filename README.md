@@ -35,3 +35,8 @@ Install the required Python libraries before running the project:
 ```bash
 pip install secure-smtplib
 ```
+## ⚠️ Note
+
+Standard libraries like `sqlite3`, `smtplib`, and `tkinter` come pre-installed with Python.
+
+
